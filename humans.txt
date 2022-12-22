@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Izzat Fitri		izzat.unijaya@gmail.com		@hyper_cubeez
 
 # THANKS
 
